@@ -1,0 +1,81 @@
+.error
+{
+color:red;
+}
+.main-container
+{
+width:90hw;
+height:auto;
+border:1px solid black;
+}
+.header
+{
+margin:5px;
+width:90hw;
+height:10vh;
+border:1px solid black;
+}
+.logo
+{
+float:left;
+padding:5px;
+}
+.brand-name
+{
+margin-top:9px;
+margin-bottom:9px;
+float:left;
+font-size:20pt;
+}
+.profile
+{
+margin-left:1300px;
+margin-top:5px;
+margin-bottom:5px;
+margin-right:2px;
+}
+.content
+{
+width:90hw;
+height:70vh;
+margin:5px;
+border:1px solid white;
+}
+.content-left-panel
+{
+height:65vh;
+margin:5px;
+float:left;
+padding:5px;
+border:1px solid black;
+}
+.content-right-panel
+{
+height:65vh;
+margin-left:105px;
+margin-right:5px;
+margin-bottom:5px;
+margin-top:5px;
+padding:5px;
+border:1px solid black;
+overflow:scroll;
+}
+.footer
+{
+width:90hw;
+height:auto;
+margin:5px;
+text-align:center;
+border:1px solid white;
+}
+.loginForm
+{
+width:30hw;
+height:30vh;
+margin-left:350px;
+margin-right:350px;
+align:center;
+padding:20px;
+padding-top:80px;
+border:1px solid black;
+}
